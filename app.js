@@ -3,7 +3,6 @@
 // var currentTime = new Date();
 // alert(currentTime);
 
-
 // ========== Q-2 =========== //
 
 // var month = new Date();
